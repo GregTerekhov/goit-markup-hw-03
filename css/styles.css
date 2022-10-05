@@ -74,7 +74,7 @@ img {
 }
 
 .logo-first-piece {
-    font-family: 'Raleway', serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -320,7 +320,7 @@ img {
 }
 
 .logo-second-piece {
-    font-family: 'Raleway', serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -337,7 +337,7 @@ img {
     margin-bottom: 9px;
 
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 1.714;
     text-decoration: none;
 
     color: var(--text-colour-tertiary);
@@ -347,7 +347,7 @@ img {
     margin-bottom: 6px;
 
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 1.714;
     text-decoration: none;
 
     color: var(--text-colour-contacts-footer);
